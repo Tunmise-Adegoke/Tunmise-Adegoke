@@ -4,7 +4,7 @@
  
 ## About Me
 - 🌱 I’m currently 
-- 💞️ I’m looking to collaborate on anything flutter.
+- 💞️ I’m looking to collaborate on anything Product or Ops.
 - 👩‍🦱 Pronouns: she/her.
 - ✨ Fun fact: I like dancing.....don't think I'm Micheal Jackson or something, but I'm pretty good-ish.
 - 📖 I'm a fan of Series of Unfortunate events.
